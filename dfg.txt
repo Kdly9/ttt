@@ -268,6 +268,10 @@ int main(){
                 while (fin.get(srez)) { cout << srez;}
         }
     fin.close();
+int son , real, whats_better;
+son = 3; real = 5;
+ whats_better = son + real;
+cout <<	whats_better;
 	system("pause");
 	return 0;
 }
